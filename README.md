@@ -1,12 +1,13 @@
 # Game project
 
-Para correr le juego sigue las siguients instrucciones:
+Para correr el juego sigue las siguients instrucciones:
 
-"""sh
+```sh
 Desde la termnal: 
 cd game
 python main.py 
-"""
+```
+
 
  
 
